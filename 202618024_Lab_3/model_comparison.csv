@@ -1,0 +1,5 @@
+Model,Preprocessing,Training Accuracy,Testing Accuracy,Precision,Recall,F1 Score
+Logistic Regression,StandardScaler,0.8181,0.8185,0.8118,0.6646,0.7308
+Logistic Regression,MinMaxScaler,0.8148,0.8158,0.8104,0.6567,0.7255
+Decision Tree,StandardScaler,0.9962,0.8579,0.8044,0.8149,0.8096
+Decision Tree,MinMaxScaler,0.9962,0.8578,0.8042,0.8148,0.8094
