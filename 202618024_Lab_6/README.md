@@ -1,7 +1,7 @@
 # DS605: Fundamentals of Machine Learning
 ## Lab Assignment 6 — Feature Extraction and Machine Learning with Image and Text Data
 
-### Student: [Your Name]
+### Student: Irene Stephen
 ### Course: DS605 — Fundamentals of Machine Learning
 ### Lab Assignment: 6
 ### Submission: Public GitHub Repository
