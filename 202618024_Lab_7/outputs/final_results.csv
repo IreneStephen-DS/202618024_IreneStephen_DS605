@@ -1,0 +1,6 @@
+Method,Components,Accuracy
+Raw pixel nearest neighbor,10304,0.9875
+PCA nearest neighbor,99,0.9875
+KNN,99,0.9875
+Logistic Regression,99,0.9625
+SVM (RBF),99,0.95

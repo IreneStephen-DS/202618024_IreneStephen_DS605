@@ -1,0 +1,37 @@
+Components,Method,Accuracy
+10,PCA nearest neighbor,0.975
+10,KNN,0.9625
+10,Logistic Regression,0.9125
+10,SVM (RBF),0.9625
+20,PCA nearest neighbor,0.9875
+20,KNN,0.975
+20,Logistic Regression,0.9375
+20,SVM (RBF),0.9875
+30,PCA nearest neighbor,1.0
+30,KNN,0.975
+30,Logistic Regression,0.95
+30,SVM (RBF),0.975
+40,PCA nearest neighbor,1.0
+40,KNN,0.9875
+40,Logistic Regression,0.9625
+40,SVM (RBF),0.975
+50,PCA nearest neighbor,0.9875
+50,KNN,0.9875
+50,Logistic Regression,0.975
+50,SVM (RBF),0.975
+75,PCA nearest neighbor,0.9875
+75,KNN,0.9875
+75,Logistic Regression,0.975
+75,SVM (RBF),0.975
+99,PCA nearest neighbor,0.9875
+99,KNN,0.9875
+99,Logistic Regression,0.9625
+99,SVM (RBF),0.95
+100,PCA nearest neighbor,0.9875
+100,KNN,0.9875
+100,Logistic Regression,0.9625
+100,SVM (RBF),0.95
+150,PCA nearest neighbor,0.9875
+150,KNN,0.9875
+150,Logistic Regression,0.95
+150,SVM (RBF),0.9125
